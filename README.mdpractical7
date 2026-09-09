@@ -1,0 +1,7 @@
+##Summary
+
+The Making Change Problem using Dynamic Programming is used to find the minimum number of coins required to make a given amount of money from a set of available coin denominations. Dynamic Programming solves the problem by breaking it into smaller subproblems and storing previously calculated results to avoid repeated calculations.
+
+##Conclusion
+
+The Making Change Problem demonstrates how Dynamic Programming can efficiently solve optimization problems. By storing and reusing intermediate results, the algorithm reduces unnecessary calculations compared with a simple recursive approach. The time complexity of the standard Dynamic Programming solution is O(n × m), where n is the target amount and m is the number of coin denominations.
